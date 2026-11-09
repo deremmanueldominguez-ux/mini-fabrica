@@ -1,0 +1,20 @@
+{"hora": "2026-11-07T23:06:45+00:00", "evento": "filtro", "sospechoso": false, "motivo": null}
+{"hora": "2026-11-07T23:06:45+00:00", "evento": "aprobacion", "aprobado": true, "comentario": ""}
+{"hora": "2026-11-07T23:06:47+00:00", "evento": "sandbox", "ok": false}
+{"hora": "2026-11-07T23:06:47+00:00", "evento": "codigo_rechazado", "agente": "implementador", "problemas": ["no define la función es_correo_valido"]}
+{"hora": "2026-11-07T23:06:47+00:00", "evento": "codigo_rechazado", "agente": "implementador", "problemas": ["no define la función es_correo_valido"]}
+{"hora": "2026-11-07T23:10:50+00:00", "evento": "filtro", "sospechoso": false, "motivo": null}
+{"hora": "2026-11-07T23:11:39+00:00", "evento": "aprobacion", "aprobado": true, "comentario": ""}
+{"hora": "2026-11-07T23:11:52+00:00", "evento": "sandbox", "ok": true}
+{"hora": "2026-11-07T23:12:04+00:00", "evento": "filtro", "sospechoso": true, "motivo": "posible prompt injection (patrón: ignora\\w* (todas )?(las )?instrucciones)"}
+{"hora": "2026-11-07T23:13:31+00:00", "evento": "filtro", "sospechoso": false, "motivo": null}
+{"hora": "2026-11-07T23:14:53+00:00", "evento": "filtro", "sospechoso": false, "motivo": null}
+{"hora": "2026-11-07T23:15:42+00:00", "evento": "sandbox", "ok": false}
+{"hora": "2026-11-07T23:16:37+00:00", "evento": "filtro", "sospechoso": false, "motivo": null}
+{"hora": "2026-11-07T23:16:47+00:00", "evento": "aprobacion", "aprobado": true, "comentario": ""}
+{"hora": "2026-11-07T23:17:01+00:00", "evento": "sandbox", "ok": true}
+{"hora": "2026-11-07T23:17:26+00:00", "evento": "filtro", "sospechoso": true, "motivo": "posible prompt injection (patrón: ignora\\w* (todas )?(las )?instrucciones)"}
+{"hora": "2026-11-07T23:50:37+00:00", "evento": "filtro", "sospechoso": false, "motivo": null}
+{"hora": "2026-11-07T23:50:46+00:00", "evento": "aprobacion", "aprobado": true, "comentario": ""}
+{"hora": "2026-11-07T23:50:59+00:00", "evento": "sandbox", "ok": true}
+{"hora": "2026-11-07T23:51:31+00:00", "evento": "filtro", "sospechoso": true, "motivo": "posible prompt injection (patrón: ignora\\w* (todas )?(las )?instrucciones)"}

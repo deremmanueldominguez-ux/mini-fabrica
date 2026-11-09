@@ -1,0 +1,5 @@
+langgraph>=1.0
+langgraph-checkpoint-sqlite>=2.0
+langchain-core>=1.0
+pydantic>=2.7
+pytest>=8
